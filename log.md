@@ -15,3 +15,11 @@
 **Thoughts:** Sass really makes my code organized.
 
 **Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
+
+### Day 3: January 9th, 2017
+
+**Today's Progress**: Styling navigation and headings.
+
+**Thoughts:** Styling dropdowns is still a headache.
+
+**Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
