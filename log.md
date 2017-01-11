@@ -35,3 +35,11 @@
 **Thoughts:** Nothing particular, some quick formatting here.
 
 **Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
+
+### Day 5: January 10th, 2017
+
+**Today's Progress**: Styling pictures, working on the responsive menu.
+
+**Thoughts:** Learned about the sass map function.
+
+**Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
