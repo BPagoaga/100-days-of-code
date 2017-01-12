@@ -36,10 +36,21 @@
 
 **Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
 
-### Day 5: January 10th, 2017
+
+### Day 5: January 11th, 2017
 
 **Today's Progress**: Styling pictures, working on the responsive menu.
 
 **Thoughts:** Learned about the sass map function.
 
 **Link to work:** [Pour La Science](https://github.com/BPagoaga/wp_pourlascience)
+
+
+### Day 6: January 12th, 2017
+
+**Today's Progress**: To make a break, now working on the recipe box FCC challenge. Started to set up basic components.
+
+**Thoughts:** Hard to get back into React after some months without practicing it.
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
