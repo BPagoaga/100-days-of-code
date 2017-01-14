@@ -54,3 +54,12 @@
 
 **Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
 
+
+### Day 6: January 12th, 2017
+
+**Today's Progress**: Trying to understand how react interacts with bootstrap modals.
+
+**Thoughts:** Thanks react-bootstrap ! I think I got it, now time to practice it !
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
