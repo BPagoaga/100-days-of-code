@@ -72,3 +72,12 @@
 
 **Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
 
+
+### Day 9: January 15th, 2017
+
+**Today's Progress**: Still working on the modals.
+
+**Thoughts:** Struggling on this parts, I don't really know how to organize my code. How to pass a method through props ?
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
