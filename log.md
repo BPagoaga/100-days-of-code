@@ -81,3 +81,21 @@
 
 **Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
 
+
+### Day 10: January 16th, 2017
+
+**Today's Progress**: Finally made it up with the modals. I know have 3 modals (add, delete, edit) based on one modal component.
+
+**Thoughts:** Had to read a lot of doc to make it work
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
+
+### Day 11: January 17th, 2017
+
+**Today's Progress**: The 'add' modal allow me to add a "test" recipe. I know need to get around the localStorage to make it persistent.
+
+**Thoughts:** Did I totally forgot to commit that ?
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
