@@ -108,3 +108,15 @@
 
 **Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
 
+
+### Day 13: January 18th, 2017 : Break
+
+
+### Day 13: January 19th, 2017
+
+**Today's Progress**: Working around passing a value with a form into the modal. Can't get to pass two values right now (from input and textarea), WIP.
+
+**Thoughts:** Probably lacks some knowledge about how to handle events.
+
+**Link to work:** [Codepen RecipeBox](http://codepen.io/BPagoaga/pen/rjegZM?editors=1000)
+
